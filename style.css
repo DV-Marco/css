@@ -1,0 +1,41 @@
+body{
+  font-family: 'Dank Mono';
+  text-align: center ;
+}
+
+#container{
+  border: 1px solid;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 7% 5%;
+  background: linear-gradient(to bottom, #664fc9, #6650a3);
+  margin: 200px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 55px;
+  width: 650px;
+  height: 200px;
+}
+
+#imagen{
+  padding: 20px;
+}
+
+input{
+  border-radius: 3px;
+  border: none;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+button{
+  border: 1px solid #091016;
+  padding: 7px;
+  border-radius: 2px;
+  background-color: #091016;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 100;
+}
+
